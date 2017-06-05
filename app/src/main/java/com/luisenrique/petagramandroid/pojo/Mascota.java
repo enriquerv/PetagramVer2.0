@@ -1,4 +1,4 @@
-package com.luisenrique.petagramandroid;
+package com.luisenrique.petagramandroid.pojo;
 
 /**
  * Created by luisenrique on 27/05/2017.

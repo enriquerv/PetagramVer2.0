@@ -8,4 +8,5 @@
     <dimen name="btnSize">35dp</dimen>+
     <dimen name="elevacionAB">4dp</dimen>
     <dimen name="botCard">50dp</dimen>
+    <dimen name="imgPerfil">150dp</dimen>
 </resources>

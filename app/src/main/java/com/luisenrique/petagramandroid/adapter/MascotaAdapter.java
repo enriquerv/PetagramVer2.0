@@ -1,4 +1,4 @@
-package com.luisenrique.petagramandroid;
+package com.luisenrique.petagramandroid.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +9,9 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.luisenrique.petagramandroid.pojo.Mascota;
+import com.luisenrique.petagramandroid.R;
 
 import java.util.ArrayList;
 

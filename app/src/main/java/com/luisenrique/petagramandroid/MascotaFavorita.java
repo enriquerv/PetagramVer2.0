@@ -7,6 +7,9 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
+import com.luisenrique.petagramandroid.adapter.MascotaAdapter;
+import com.luisenrique.petagramandroid.pojo.Mascota;
+
 import java.util.ArrayList;
 
 public class MascotaFavorita extends AppCompatActivity {
